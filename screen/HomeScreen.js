@@ -13,7 +13,7 @@ import CircularProgress from "react-native-circular-progress-indicator";
 
 const HomeScreen = () => {
   let API_KEY =
-    "37a34a2cb29ba162942e8d86dc3f95e25347706f3e8ace6e9fc333b19969e39f";
+    "Enter Your API Key Here";
   const [report, setReport] = useState({});
   const [text, onChangeText] = useState("");
   let tet = text;
